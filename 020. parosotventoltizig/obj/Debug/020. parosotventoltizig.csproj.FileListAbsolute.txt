@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\bin\Debug\_020.parosotventoltizig.exe.config
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\bin\Debug\_020.parosotventoltizig.exe
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\bin\Debug\_020.parosotventoltizig.pdb
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\obj\Debug\020. parosotventoltizig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\obj\Debug\_020.parosotventoltizig.exe
+C:\Users\gratt\source\repos\020. parosotventoltizig\020. parosotventoltizig\obj\Debug\_020.parosotventoltizig.pdb
